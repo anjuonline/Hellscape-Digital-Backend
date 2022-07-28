@@ -1,0 +1,26 @@
+{
+  "name": "hellscape-digital-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjuonline/Hellscape-Digital-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjuonline/Hellscape-Digital-Backend/issues"
+  },
+  "homepage": "https://github.com/anjuonline/Hellscape-Digital-Backend#readme"
+}
